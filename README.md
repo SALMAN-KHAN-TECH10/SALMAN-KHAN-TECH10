@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **DATA ANALYSIS AND MACHINE LEARNING**
 
-- 🌱 I’m currently learning **DATA ANALSIS**
+- 🌱 I’m currently learning **DEEP LEARNING AND AGENTIC AI**
 
 - 📫 How to reach me **salman.ai.edu@gmail.com**
 
